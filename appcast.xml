@@ -3,5 +3,14 @@
   <channel>
     <title>Kino</title>
     <language>en</language>
+    <item>
+      <title>Kino 1.1</title>
+      <pubDate>Tue, 13 Oct 2026 17:24:52 +0300</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Kino now updates itself: <b>Kino → Check for Updates…</b>, and it checks once a day on its own.</li><li>Player keys (space, arrows, Esc and the rest) keep working after you open the episodes list or Up Next.</li><li>Delete a single season of a show, from the season title or the show&#x27;s menu.</li><li>Shows that came from several downloads let you remove or download again each season separately.</li><li>Fewer wrong trailers: clips TMDB users attached from another show are left out.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.1/Kino-1.1.dmg" type="application/octet-stream" sparkle:edSignature="vpDW+d+fapPBoFkjH/REYqnxDtErHDupFKVtTPG73MNiUHLZNN65gAqx1jTbK8wX5VZICnoXbZhGAu3aXOR+Ag==" length="35379915" />
+    </item>
   </channel>
 </rss>
