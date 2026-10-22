@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 1.1.1</title>
+      <pubDate>Thu, 22 Oct 2026 23:03:47 +0300</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The screen no longer dims or turns off while a video plays on battery, including over AirPlay.</li><li>Converted Dolby audio keeps the film&#x27;s full dynamic range, so quiet and loud scenes sound as in the original.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.1.1/Kino-1.1.1.dmg" type="application/octet-stream" sparkle:edSignature="JRGYmresyMn1jWX7a2N25NF8JFkHa3cXZr9IO6oej0Bqas6t7udIkspNXR7HG8UDDIq4yEIXEPxqKAOODP9VAQ==" length="35383241" />
+    </item>
+    <item>
       <title>Kino 1.1</title>
       <pubDate>Tue, 13 Oct 2026 17:24:52 +0300</pubDate>
       <sparkle:version>2</sparkle:version>
