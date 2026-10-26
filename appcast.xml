@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 1.1.2</title>
+      <pubDate>Mon, 26 Oct 2026 23:51:03 +0200</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Subtitle files in a <b>Subs</b> or <b>Subtitles</b> folder next to the video now show up in the player, and so do files like English.srt in a movie&#x27;s own folder.</li><li>A title&#x27;s page lists only the subtitle languages the player can show.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.1.2/Kino-1.1.2.dmg" type="application/octet-stream" sparkle:edSignature="oGHvB648LTIjW+JqhQgzykcM82tMyd0nL/SJX4cFnqx/Zfj0sgAxHPk9Ew6Vy4yKv0cX0M8gp+leh6J2sVtTCw==" length="35388786" />
+    </item>
+    <item>
       <title>Kino 1.1.1</title>
       <pubDate>Thu, 22 Oct 2026 23:03:47 +0300</pubDate>
       <sparkle:version>3</sparkle:version>
