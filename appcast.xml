@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 1.2</title>
+      <pubDate>Tue, 27 Oct 2026 09:16:20 +0200</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>After you open a torrent or magnet link, its movie or show page opens as soon as Kino knows what it is, ready to play while it downloads.</li><li>Movie pages and posters show what&#x27;s downloading and what&#x27;s already on your Mac; hover the icon next to a movie&#x27;s formats for how far along it is.</li><li><b>Download Movie</b> in a movie&#x27;s menu saves it for watching offline, like Download Season.</li><li>When you&#x27;re offline, titles that need internet fade out, so you can see what you can still watch.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.2/Kino-1.2.dmg" type="application/octet-stream" sparkle:edSignature="XPhhyIrZT5eNiY7GwzjKygdc+KhUqYVEmm9+6BUbxay1Keim7fiij+ePiltnIKeQe9rium0odl6mSDLCh02uDA==" length="35452173" />
+    </item>
+    <item>
       <title>Kino 1.1.5</title>
       <pubDate>Tue, 27 Oct 2026 08:02:20 +0200</pubDate>
       <sparkle:version>7</sparkle:version>
