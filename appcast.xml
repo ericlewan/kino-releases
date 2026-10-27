@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 1.1.5</title>
+      <pubDate>Tue, 27 Oct 2026 08:02:20 +0200</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The audio menu shows each track&#x27;s full name and title, such as &quot;Ukrainian – DUB (Le Doyen)&quot; or &quot;English – Original (Atmos)&quot;, instead of only its language.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.1.5/Kino-1.1.5.dmg" type="application/octet-stream" sparkle:edSignature="2LuraSg0APYBwuViRL5XYBJrOmMHJuMoQgS1MArc3o7tOOfvStytdo57aiQHLGadUAV1cIk4OCoOUl7o8DtuDw==" length="35402094" />
+    </item>
+    <item>
       <title>Kino 1.1.4</title>
       <pubDate>Tue, 27 Oct 2026 00:15:47 +0200</pubDate>
       <sparkle:version>6</sparkle:version>
