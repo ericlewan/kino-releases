@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 1.3.1</title>
+      <pubDate>Wed, 28 Oct 2026 17:58:20 +0200</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Timeline previews and Skip Intro now kick in as soon as a video you&#x27;re watching finishes downloading, without reopening it.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.3.1/Kino-1.3.1.dmg" type="application/octet-stream" sparkle:edSignature="K30Gkj8hp4JGqY6Enf+XbZflMBKMQV3zsBFwcBncw8iHzr2s25BNzTE3LDeekv+laC00bb3zLwR0ozXF5yh9CQ==" length="35466878" />
+    </item>
+    <item>
       <title>Kino 1.3</title>
       <pubDate>Tue, 27 Oct 2026 20:46:32 +0200</pubDate>
       <sparkle:version>9</sparkle:version>
