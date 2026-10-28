@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 1.3.2</title>
+      <pubDate>Wed, 28 Oct 2026 23:25:49 +0200</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Movies with numbering in front of their name, like “1. Harry Potter and the Sorcerer&#x27;s Stone (2001)”, now get recognized.</li><li>When a title can&#x27;t be found straight away, Kino tries simpler searches, and Fix Match does too, so fewer files end up unmatched.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.3.2/Kino-1.3.2.dmg" type="application/octet-stream" sparkle:edSignature="/3ga/a5r+AE40W9ZTqDd1kvknMYZZF3XKtRYkLOBgT0+TbJm/wze5vHSn+Xz2HGEjdLs64RhEj2nyuDMXw7PAQ==" length="35480587" />
+    </item>
+    <item>
       <title>Kino 1.3.1</title>
       <pubDate>Wed, 28 Oct 2026 17:58:20 +0200</pubDate>
       <sparkle:version>10</sparkle:version>
