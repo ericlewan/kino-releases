@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 1.4</title>
+      <pubDate>Thu, 29 Oct 2026 10:14:55 +0200</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>A new look.</b> A sidebar takes you to Home, Library, Downloads, the Internet Archive and Settings, and every page flows from the artwork at the top into the rest.</li><li><b>Search pops up over whatever you&#x27;re on</b>: press ⌘F or ⌘K, or just start typing. It finds titles by name, original name, actor or genre, and the people in them.</li><li><b>New episodes</b>: shows you&#x27;re watching are checked every day. A Home row lists episodes from the last two weeks, and you get a notification when one comes out.</li><li>Seasons show episodes that haven&#x27;t aired yet with their dates, and a movie page shows the rest of its collection, including the films you don&#x27;t have.</li><li><b>Continue Watching</b> suggests the next film of a series after you finish one.</li><li><b>Use your phone as a remote</b>: scan the code from the phone button in the player to play, pause, skip, and change audio and subtitles.</li><li>The player has an Audio &amp; Subtitles panel with subtitle timing, plus picture in picture (P).</li><li><b>Your Year</b>: what you watched this year, with your top shows and genres.</li><li>Downloads and Settings are redesigned, and descriptions expand in place with More.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v1.4/Kino-1.4.dmg" type="application/octet-stream" sparkle:edSignature="k8YPH78BLyLzfpX/HTLq1pZnMSsAcigBc2nfA5uUqF2SjanepNAqJXbDEZIsoBIHXud3zd049iRcERbP06wVCA==" length="35887861" />
+    </item>
+    <item>
       <title>Kino 1.3.2</title>
       <pubDate>Wed, 28 Oct 2026 23:25:49 +0200</pubDate>
       <sparkle:version>11</sparkle:version>
