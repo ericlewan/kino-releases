@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 2.0</title>
+      <pubDate>Sat, 31 Oct 2026 10:39:13 +0200</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Every movie and show, a click from playing.</b> Movies and TV Shows have the whole catalog, with this week&#x27;s Top 10. Press Play and Kino finds the movie or episode and starts it in seconds while it downloads.</li><li><b>Play, Download, or pick a version.</b> Play takes the version with the most people sharing it that your connection can keep up with. Download gets the best picture and sound to keep. The ••• menu lists every version, and Switch Version swaps one that&#x27;s slow without losing your place.</li><li><b>A Home picked for you</b>: Top 10 rows, “Because You Watched…”, and rows from the genres and titles you like. Change them any time in Settings → For You.</li><li><b>Every season, every episode</b>: a show&#x27;s page lists all its episodes, plays any of them, and Download Season gets the ones you don&#x27;t have. Each season shows its picture and sound, and can switch to another release.</li><li>Search finds movies and shows you don&#x27;t have yet.</li><li>Downloads say which season or episode each one holds and its quality, and Delete says exactly what goes. Downloads you keep are marked KEPT; the rest clear after two weeks unwatched.</li><li>Kino measures your connection, and when something starts slowly it says why and offers another version.</li><li>Logos for Blu-ray, IMAX, DTS and more on the versions you can pick.</li><li>Kino looks on The Pirate Bay, YTS, EZTV, Torrentio and the Internet Archive; turn them off or add your own in Settings → Sources.</li><li>The Internet Archive moved to File → Browse the Internet Archive.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v2.0/Kino-2.0.dmg" type="application/octet-stream" sparkle:edSignature="T04OXNeOY3biaCQYtKK0Ov2hYT/OP3EVMjizC0CVeO1I6CGe0vUQ1VTzbANMazFbUy/nXdR0B2BtlBZ2F9meAw==" length="36930842" />
+    </item>
+    <item>
       <title>Kino 1.4</title>
       <pubDate>Thu, 29 Oct 2026 10:14:55 +0200</pubDate>
       <sparkle:version>12</sparkle:version>
