@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 2.1</title>
+      <pubDate>Sun, 01 Nov 2026 20:53:29 +0200</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Kino on your phone, like an app.</b> Open Kino → Kino on iPhone, scan the code and add it to your Home Screen. Browse and search your library, pick a movie or episode and play it, and control what&#x27;s playing, whenever Kino is open on your Mac.</li><li>On the phone: skip 10 seconds, previous and next episode, audio and subtitle tracks, subtitle timing, and <b>Find Subtitles Online</b> when the ones you have don&#x27;t match.</li><li>Once you&#x27;ve sent a video to the TV with AirPlay, whatever you pick on the phone plays there too. The phone tells you when something is playing on the Mac instead.</li><li>More reliable AirPlay: the Mac stays awake while the TV streams, a TV that stops after switching videos gets going again, and downloads slow down while the TV streams so 4K keeps up.</li><li>Samsung TVs now play Dolby Vision titles in HDR10.</li><li>A collection download (all the Harry Potter films, say) puts each film under its own title, without the promo clips.</li><li>“Taking a while to start” no longer suggests other versions for a video that&#x27;s already fully downloaded.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v2.1/Kino-2.1.dmg" type="application/octet-stream" sparkle:edSignature="ZHC5UXQwfpJHePOGantAJBoK/ZfrLiwc4RT2+B0N9oPM5xo7sPHfl6s9TLTMcvBf4s1uTwXWXFcDKrkFNLA5BQ==" length="37057090" />
+    </item>
+    <item>
       <title>Kino 2.0</title>
       <pubDate>Sat, 31 Oct 2026 10:39:13 +0200</pubDate>
       <sparkle:version>13</sparkle:version>
