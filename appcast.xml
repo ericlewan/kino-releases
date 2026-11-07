@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 2.1.2</title>
+      <pubDate>Sat, 07 Nov 2026 19:36:47 +0200</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Movies and TV Shows load every row again. In 2.1 and 2.1.1 they showed only Trending, or a spinner that never finished.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v2.1.2/Kino-2.1.2.dmg" type="application/octet-stream" sparkle:edSignature="fChO4WxH7UVepJopHXmTgA/j1vEqcfwp69tiM5kHHhQMIG7+gxMxMlg8cAJyrSMyteAo7nwv1SgR9YrhVAi4DA==" length="37052710" />
+    </item>
+    <item>
       <title>Kino 2.1.1</title>
       <pubDate>Sat, 07 Nov 2026 19:25:58 +0200</pubDate>
       <sparkle:version>15</sparkle:version>
