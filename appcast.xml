@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 2.1.2</title>
+      <pubDate>Sun, 08 Nov 2026 10:29:56 +0200</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Movies in cinemas show when they come out at home.</b> Until then, <b>Remind Me</b> replaces Play: Kino adds the movie to your library and tells you the day it&#x27;s out, or as soon as a real copy turns up.</li><li>Movies that haven&#x27;t come out yet no longer offer Play.</li><li>When another film has the same title (The Asylum&#x27;s The Odyssey, say), Kino checks each version&#x27;s length before playing it. A version that&#x27;s a different film is skipped and never offered again.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v2.1.2/Kino-2.1.2.dmg" type="application/octet-stream" sparkle:edSignature="Zd36daf/he0cPMIbbAKYKgWkCPCBbz5D2ZdWoR3vYhNWE5u6cP4Xr3yW/+FbhwgH7rfDsXPKOFqHACnENiq2Cg==" length="37085552" />
+    </item>
+    <item>
       <title>Kino 2.1.1</title>
       <pubDate>Sat, 07 Nov 2026 19:42:49 +0200</pubDate>
       <sparkle:version>17</sparkle:version>
