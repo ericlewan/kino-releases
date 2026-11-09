@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 2.1.3</title>
+      <pubDate>Mon, 09 Nov 2026 10:25:26 +0200</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>A friendlier Kino download for the people you share it with.</b> The install window now walks through the first launch step by step, with an <b>Allow Kino</b> shortcut that opens the right page in System Settings. Nothing changes in the app itself.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v2.1.3/Kino-2.1.3.dmg" type="application/octet-stream" sparkle:edSignature="nFHGsghab7MMjFsv6eUUzwxgze8Yr7BfgkTUdepHkWHxuBYx5F8aioCVaVM3/VUzc8/OYvxIhJwhs/Sl50yLBQ==" length="37205008" />
+    </item>
+    <item>
       <title>Kino 2.1.2</title>
       <pubDate>Sun, 08 Nov 2026 10:29:56 +0200</pubDate>
       <sparkle:version>18</sparkle:version>
