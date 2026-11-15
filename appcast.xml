@@ -4,6 +4,15 @@
     <title>Kino</title>
     <language>en</language>
     <item>
+      <title>Kino 2.1.5</title>
+      <pubDate>Sun, 15 Nov 2026 21:14:24 +0200</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>2.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Switch Version works on movies you&#x27;ve already downloaded.</b> If one is slow to start on the TV (a heavy 4K copy over Wi-Fi, say), open ••• → Switch Version… and pick another. It plays right away, and the old copy goes to the Trash once the new one is in, keeping your place.</li></ul>]]></description>
+      <enclosure url="https://github.com/ericlewan/kino-releases/releases/download/v2.1.5/Kino-2.1.5.dmg" type="application/octet-stream" sparkle:edSignature="6JpH8rzxAX7GW9cdz3wRJJLOstuLtoIONqbhFE6eQ9tqcIisZRMOJu6W7RUWaSRaPdGFyrZDLtGFyKWJiH1dAg==" length="37216653" />
+    </item>
+    <item>
       <title>Kino 2.1.4</title>
       <pubDate>Wed, 11 Nov 2026 09:59:56 +0200</pubDate>
       <sparkle:version>22</sparkle:version>
